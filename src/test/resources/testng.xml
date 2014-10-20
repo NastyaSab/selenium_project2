@@ -1,0 +1,8 @@
+
+<suite name="SeleniumTests" verbose="1" >
+
+    <test name="SmokeTest" >
+        <classes>  <class name="ua.com.uklon.tests.SmokeTest" />  </classes>
+    </test>
+
+</suite>
